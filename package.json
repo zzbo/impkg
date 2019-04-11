@@ -21,5 +21,8 @@
   "homepage": "https://github.com/zzbo/pkg-cli#readme",
   "dependencies": {
     "commander": "^2.20.0"
+  },
+  "bin": {
+    "pkg": "./bin/pkg-cli.js"
   }
 }

@@ -1,4 +1,7 @@
 const program = require('commander');
+const pkg = require('./lib');
+
+console.log(pkg);
 
 program
   .version('0.1.0')
