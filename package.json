@@ -1,5 +1,5 @@
 {
-  "name": "pkg-cli",
+  "name": "impkg",
   "version": "0.1.0",
   "description": "node package cli",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zzbo/pkg-cli.git"
+    "url": "git+https://github.com/zzbo/impkg.git"
   },
   "keywords": [
     "package"
@@ -16,13 +16,13 @@
   "author": "zzbozheng",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/zzbo/pkg-cli/issues"
+    "url": "https://github.com/zzbo/impkg/issues"
   },
-  "homepage": "https://github.com/zzbo/pkg-cli#readme",
+  "homepage": "https://github.com/zzbo/impkg#readme",
   "dependencies": {
     "commander": "^2.20.0"
   },
   "bin": {
-    "pkg": "./bin/pkg-cli.js"
+    "pkg": "./bin/impkg-cli.js"
   }
 }
