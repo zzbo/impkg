@@ -1,0 +1,25 @@
+{
+  "name": "pkg-cli",
+  "version": "0.1.0",
+  "description": "node package cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zzbo/pkg-cli.git"
+  },
+  "keywords": [
+    "package"
+  ],
+  "author": "zzbozheng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zzbo/pkg-cli/issues"
+  },
+  "homepage": "https://github.com/zzbo/pkg-cli#readme",
+  "dependencies": {
+    "commander": "^2.20.0"
+  }
+}
